@@ -58,3 +58,4 @@ class PNGFactory implements ReaderFactory{
     }
 }
 
+// create a factory for GifReader
