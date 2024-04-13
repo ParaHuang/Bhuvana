@@ -20,7 +20,7 @@ public class Main3_Update {
                     "root","a123");
 
             System.out.println("enter the no of product that you want to update:");
-            int no = scanner.nextInt();
+            int no = scanner.nextInt(); 
             System.out.println("enter the new name");
             String name = scanner.next();
             System.out.println("enter the new price");
